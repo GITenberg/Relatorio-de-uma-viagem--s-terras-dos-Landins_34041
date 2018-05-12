@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36699
     wikipedia: http://pt.wikipedia.org/wiki/Joaquim_Carlos_Paiva_de_Andrada
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34041#Relatorio-de-uma-viagem--s-terras-dos-Landins
 gutenberg_bookshelf:
 - PT Navegações e Explorações
 - PT História
