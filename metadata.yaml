@@ -1,0 +1,32 @@
+_repo: Relatorio-de-uma-viagem--s-terras-dos-Landins_34041
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Paiva de Andrada, Joaquim Carlos
+    alias: Andrada, Joaquim Carlos Paiva de
+    birthdate: 1846
+    deathdate: 1928
+    gutenberg_agent_id: '36699'
+    url: http://www.gutenberg.org/2009/agents/36699
+    wikipedia: http://pt.wikipedia.org/wiki/Joaquim_Carlos_Paiva_de_Andrada
+description: ''
+gutenberg_bookshelf:
+- PT Navegações e Explorações
+- PT História
+gutenberg_issued: '2010-10-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34041'
+  lccn: '11000163'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DT'
+- !lcsh 'Mozambique -- Description and travel'
+title: Relatorio de uma viagem ás terras dos Landins
+url: http://www.gutenberg.org/ebooks/34041
